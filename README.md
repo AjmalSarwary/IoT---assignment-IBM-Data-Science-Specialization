@@ -1,1 +1,1 @@
-# assignments
+This assignment was part of an IoT motion sensor App running on a watch, predicting actions of the individual wearing the watch based on his arm movements; this IoT Analytics assignments is one of many coding challenges that Ajmal Sarwary had to succeed in before he was issued the IBM Badge << Scalable Data Science >>
